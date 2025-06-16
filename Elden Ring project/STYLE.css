@@ -1,0 +1,21 @@
+html{
+    
+    background-image: url(./download\ \(1\).jpg);
+    
+   background-color: palegoldenrod;
+    background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh; /* Ensure it fills the full viewport height */
+  margin: 0;
+}
+.overlay {
+  background-color: rgba(0, 0, 0, 0.5); /* Black transparent background */
+  color: white; /* Text color */
+  padding: 50px;
+}
+img{
+  display:block;
+  margin: auto;
+  width: 50%;
+}

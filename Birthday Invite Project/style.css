@@ -1,0 +1,14 @@
+img{
+  display:block;
+  margin: auto;
+  width: 50%;
+}
+html{
+    background:peachpuff;
+    background-image:url(./Happy\ Birthday\ to\ you.jpg) ;
+    background-size: cover ;
+}
+h1{
+    text-align: center;
+
+}
